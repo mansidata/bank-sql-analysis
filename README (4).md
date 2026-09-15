@@ -103,4 +103,4 @@ WHERE Contract = 'Month-to-month'
 Built as part of a self-directed transition into a Business Analyst role, combining prior client-facing banking experience (HNI Relationship Management) with hands-on technical skill-building in SQL, Excel, and Power BI.
 
 ## Author
-**Mansi Bhupendra**
+**Mansi Patil**
